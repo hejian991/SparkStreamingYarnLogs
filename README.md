@@ -1,5 +1,5 @@
 # SparkStreamingYarnLogs
-Yarn log aggregation does not work for streaming apps unless the apps exists successfullly or killed.
+Yarn log aggregation does not work for streaming apps unless the apps completes successfullly or gets killed.
 
 You can create roll over logs by passing the log4j properties to the spark streaming app as shown below
 
