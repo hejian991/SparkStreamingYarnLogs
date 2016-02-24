@@ -1,5 +1,5 @@
-# SparkStreamingYarnLogs
-Yarn logs for spark streaming applications
+# Yarn Logs - Spark Streaming 
+Spark running on Yarn - log aggregation tool for spark streaming applications running on yarn
 
 #Issue
 Yarn log aggregation does not work for streaming apps unless the apps completes successfullly or gets killed.
